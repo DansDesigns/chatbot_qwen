@@ -1,3 +1,9 @@
+## Modification of Mariya's Better Chatbot with Qwen + DeepSeek
+* added vosk STT & pyttsx3 TTS
+
+
+
+
 # chatbot_qwen
 Create a Better Chatbot with Qwen + [Jan 27 2025 UPDATE] Deepseek 1.5B Qwen Chatbot
 
