@@ -1,9 +1,14 @@
 ## Modification of Mariya's Better Chatbot with Qwen + DeepSeek
 * added vosk STT & pyttsx3 TTS
+ 
+```
+Python Requirements:
 
-
-
-
+pip install torch
+pip install transformers
+pip install sty
+pip install accelerate
+```
 # chatbot_qwen
 Create a Better Chatbot with Qwen + [Jan 27 2025 UPDATE] Deepseek 1.5B Qwen Chatbot
 
